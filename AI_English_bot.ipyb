@@ -54,7 +54,7 @@
         "\n",
         "nest_asyncio.apply()\n",
         "\n",
-        "TOKEN = \"8623635861:AAHc7msFRnA5AiCy4AUn5bGeTNZ6ju8U3UU\"\n",
+        "TOKEN = \"ВСТАВЬ_СВОЙ_ТОКЕН_ЗДЕСЬ\"\n",
         "\n",
         "logging.basicConfig(level=logging.INFO)\n",
         "\n",
