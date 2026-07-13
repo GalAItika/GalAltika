@@ -1,3 +1,26 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/GalAItika/GalAltika/blob/main/AI_English_bot.ipyb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "background_save": true
+        },
+        "id": "KlnQcH7hNxGg"
+      },
+      "outputs": [],
+      "source": [
         "!pip install python-telegram-bot nest_asyncio apscheduler requests --quiet\n",
         "\n",
         "import asyncio\n",
@@ -14,7 +37,7 @@
         "\n",
         "nest_asyncio.apply()\n",
         "\n",
-        "TOKEN = \"ВСТАВЬ_СВОЙ_ТОКЕН_ЗДЕСЬ\"\n",
+        "TOKEN = \"8623635861:AAHc7msFRnA5AiCy4AUn5bGeTNZ6ju8U3UU\"\n",
         "\n",
         "logging.basicConfig(level=logging.INFO)\n",
         "\n",
